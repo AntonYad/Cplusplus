@@ -1,3 +1,4 @@
+
 #define _CRT_SECURE_NO_WARNINGS 1
 void travel(struct TreeNode* root, int depth, int* returnSize, int* res){
 	if (root == NULL) return;
