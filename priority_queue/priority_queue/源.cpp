@@ -6,6 +6,8 @@ namespace GX
 	class priority_queue
 	{
 	public:
+		priority_queue£¨£©
+		{}
 		void Adjustdown(int root)
 		{
 			Compare com;
@@ -70,6 +72,15 @@ namespace GX
 		bool empty()
 		{
 			return _con.empty();
+		}
+		template <class Inputiterator>
+		priority_queue(Inputiterator first, Inputiterator last)
+			:_con(first,last)
+		{
+			for (int i = (_con.size() - 2) / 2; i >= 0; i--)
+			{
+				Adjustdown();
+			}
 		}
 	private:
 		Container _con;
