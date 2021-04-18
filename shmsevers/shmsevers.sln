@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shmsevers", "shmsevers\shmsevers.vcxproj", "{8B0E2978-A964-4F7B-81F2-F345C2B368BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0E2978-A964-4F7B-81F2-F345C2B368BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B0E2978-A964-4F7B-81F2-F345C2B368BC}.Debug|Win32.Build.0 = Debug|Win32
+		{8B0E2978-A964-4F7B-81F2-F345C2B368BC}.Release|Win32.ActiveCfg = Release|Win32
+		{8B0E2978-A964-4F7B-81F2-F345C2B368BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
