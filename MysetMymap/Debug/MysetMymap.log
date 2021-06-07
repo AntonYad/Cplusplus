@@ -1,0 +1,41 @@
+﻿  mymap.cpp
+D:\2021Code\MysetMymap\mymap.cpp(6,15): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\2021Code\MysetMymap\mymap.cpp(41): message : 查看对正在编译的 类 模板 实例化“xxx::map<K,V>”的引用
+D:\2021Code\MysetMymap\mymap.cpp(6,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\mymap.cpp(6,19): error C2238: 意外的标记位于“;”之前
+D:\2021Code\MysetMymap\mymap.cpp(9,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\mymap.cpp(11): message : 查看对正在编译的 类 模板 实例化“xxx::map<K,V>::KeyOfValue”的引用
+D:\2021Code\MysetMymap\mymap.cpp(9,39): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\2021Code\MysetMymap\mymap.cpp(15,17): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\2021Code\MysetMymap\mymap.cpp(15,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\mymap.cpp(15,29): error C2238: 意外的标记位于“;”之前
+D:\2021Code\MysetMymap\mymap.cpp(16,20): error C2825: 'xxx::map<K,V>::RBTree': 当后面跟“::”时必须为类或命名空间
+D:\2021Code\MysetMymap\mymap.cpp(16,28): error C2510: “RBTree”:“::”的左边必须是类/结构/联合
+D:\2021Code\MysetMymap\mymap.cpp(16,37): error C3646: “iterator”: 未知重写说明符
+D:\2021Code\MysetMymap\mymap.cpp(16,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\mymap.cpp(22,19): error C3646: “；”: 未知重写说明符
+D:\2021Code\MysetMymap\mymap.cpp(23,4): error C3646: “iterator”: 未知重写说明符
+D:\2021Code\MysetMymap\mymap.cpp(23,13): error C3646: “end”: 未知重写说明符
+D:\2021Code\MysetMymap\mymap.cpp(23,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\mymap.cpp(23,1): error C2059: 语法错误:“(”
+D:\2021Code\MysetMymap\mymap.cpp(23,16): error C2059: 语法错误:“(”
+D:\2021Code\MysetMymap\mymap.cpp(27,1): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\2021Code\MysetMymap\mymap.cpp(27,1): error C2059: 语法错误:“)”
+D:\2021Code\MysetMymap\mymap.cpp(36,7): error C2059: 语法错误:“<”
+D:\2021Code\MysetMymap\mymap.cpp(36,18): error C2238: 意外的标记位于“;”之前
+D:\2021Code\MysetMymap\mymap.cpp(11,12): error C3861: “data”: 找不到标识符
+  myset.cpp
+D:\2021Code\MysetMymap\myset.cpp(16,17): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\2021Code\MysetMymap\myset.cpp(41): message : 查看对正在编译的 类 模板 实例化“Anton::set<K>”的引用
+D:\2021Code\MysetMymap\myset.cpp(16,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\myset.cpp(16,29): error C2238: 意外的标记位于“;”之前
+D:\2021Code\MysetMymap\myset.cpp(17,20): error C2825: 'Anton::set<K>::RBTree': 当后面跟“::”时必须为类或命名空间
+D:\2021Code\MysetMymap\myset.cpp(17,28): error C2510: “RBTree”:“::”的左边必须是类/结构/联合
+D:\2021Code\MysetMymap\myset.cpp(17,37): error C3646: “iterator”: 未知重写说明符
+D:\2021Code\MysetMymap\myset.cpp(17,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\myset.cpp(36,7): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\2021Code\MysetMymap\myset.cpp(36,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\2021Code\MysetMymap\myset.cpp(36,18): error C2238: 意外的标记位于“;”之前
+D:\2021Code\MysetMymap\myset.cpp(24,12): error C3861: “_t”: 找不到标识符
+D:\2021Code\MysetMymap\myset.cpp(28,11): error C3861: “_t”: 找不到标识符
+  正在生成代码...
