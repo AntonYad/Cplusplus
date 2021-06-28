@@ -19,7 +19,7 @@ public:
 		int index = which / 32;
 		int num = which % 32;
 		_bit[index] &= ~(1 << (num));
-		_bitCount;--;
+		_bitCount--;
 	}
 		// 检测位图中which是否为1
 	bool test(size_t which)
