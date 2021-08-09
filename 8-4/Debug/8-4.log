@@ -1,0 +1,23 @@
+﻿  源.cpp
+D:\2021Code\8-4\源.cpp(20,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(936,21): error C2100: 非法的间接寻址
+D:\2021Code\8-4\源.cpp(26): message : 查看对正在编译的函数 模板 实例化“void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<_Ty>(_Iter,_Iter)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+D:\2021Code\8-4\源.cpp(26): message : 查看对正在编译的函数 模板 实例化“void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<_Ty>(_Iter,_Iter)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
